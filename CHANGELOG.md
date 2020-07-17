@@ -2,6 +2,7 @@
 
 ## 1.1.0 (IN PROGRESS)
 
+* Replace `bigtest/mirage` with `miragejs`.
 * Updated to use Babel 7.
 * Updated `stripes` to v3.0.0.
 * Updated `eslint` to v6.2.1.
