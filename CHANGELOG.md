@@ -2,10 +2,10 @@
 
 ## 1.1.0 (IN PROGRESS)
 
-* Replace `bigtest/mirage` with `miragejs`.
 * Updated to use Babel 7.
 * Updated `stripes` to v3.0.0.
 * Updated `eslint` to v6.2.1.
+* Replace `bigtest/mirage` with `miragejs`.
 
 ## 1.0.0 (https://github.com/folio-org/ui-app-template/tree/v1.0.0) (2020-03-02)
 
