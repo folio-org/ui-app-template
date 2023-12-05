@@ -8,3 +8,4 @@ module.exports = {
     path.join(__dirname, './test/jest/setupFiles.js'),
   ],
 };
+
