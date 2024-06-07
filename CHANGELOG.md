@@ -2,6 +2,7 @@
 
 ## 1.1.0 (IN PROGRESS)
 
+* Add caret to react peer dependency.
 
 ## 1.0.0
 
